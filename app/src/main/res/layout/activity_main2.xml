@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/endbtn"
+        android:text="關閉此頁"
+        android:textSize="26sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="22sp"
+                android:textColor="#000000"
+                android:text="（中央社記者謝靜雯東京29日電）林昀儒惜敗東京奧運桌球男單4強，銅牌戰對手是德國的奧恰洛夫，如能獲勝將是台灣奧運桌球男單史上的首面獎牌。奧恰洛夫與林昀儒素有私交，但林昀儒今天表示：「該打就打」。
+
+年僅19歲的台灣桌球好手林昀儒今天在東京奧運桌球男單4強出賽，與世界排名第一的中國好手樊振東打滿7局，最終以最終以11比6、9比11、12比14、15比13、9比11、11比9、8比11不敵，無緣金牌戰。
+
+另外一場4強賽，德國名將奧恰洛夫（Dimitrij Ovtcharov）與中國好手馬龍交手，也是打滿7局，最終由馬龍艱苦奪勝、晉級決賽，明天男單金牌也將成為中國內戰，由樊振東出戰馬龍；林昀儒則與奧恰洛夫爭銅牌。
+
+奧恰洛夫曾在2008年北京奧運拿下桌球男單銀牌，又在2012年倫敦奧運男單銅牌戰擊敗台灣好手莊智淵，讓台灣在此項目的最佳成績只能停在4強。此次林昀儒力拚台灣奧運桌球男單首面獎牌，結果對手又是奧恰洛夫。
+
+
+奧恰洛夫與林昀儒其實是俄羅斯乒乓球聯賽、奧倫堡俄天然氣火炬隊隊友，兩人也有私交。過去交手，林昀儒多居上風。今天4強輸球，林昀儒坦言心情不好受，但會好好準備，爭取明天比賽勝利。"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>
+
+
